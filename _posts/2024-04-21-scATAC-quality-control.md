@@ -2,7 +2,7 @@
 
 One main challenge in scATAC-seq analysis is to distinguish the good cells (high quality cells), the bad cells(low quality cells), and the ugly cells (doublet  cells).
 
-<img src="../assets/image/2024-04-21-scATAC-quality-control/1713701483232.png" width="600">
+<img src="/assets/image/2024-04-21-scATAC-quality-control/1713701483232.png" width="600">
 
 ## The bad---- low quality cell
 
