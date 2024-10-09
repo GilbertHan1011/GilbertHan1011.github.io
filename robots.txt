@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GilbertHan1011.github.io/al-folio/sitemap.xml
+Sitemap: https://GilbertHan1011.github.io/GilbertHan1011.github.io/sitemap.xml
