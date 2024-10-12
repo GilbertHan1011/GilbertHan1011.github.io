@@ -2,7 +2,7 @@
 layout: page
 title: linkSet
 description: R package for handling promoter-enhancer interactions.
-img: assets/img/3.jpg
+img: assets/img/linkSet_log.png
 importance: 2
 category: work
 giscus_comments: true
