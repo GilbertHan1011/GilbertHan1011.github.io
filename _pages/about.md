@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>GilbertHan1011@gmail.com</p>
-    <p>No. 8, South Donghu Road</p>
-    <p>Wuhan</p>
+    <p>Hello, this is me 😊 </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
