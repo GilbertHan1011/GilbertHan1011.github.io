@@ -7,6 +7,6 @@ nav: true
 ---
 # My Book Collection
 
-Welcome to my book collection! Here you'll find a list of books I've read and recommend. You can also view them in a dynamic bookshelf below.
+I love reading books. Recently, I selected some books I'd like to recommend to you and added them to this digital bookshelf, along with some comments. I hope you enjoy them! Haha!
 
 <my-bookshelf src="https://gilberthan1011.github.io/mybookshelf/books.json"></my-bookshelf>

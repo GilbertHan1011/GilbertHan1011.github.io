@@ -10,3 +10,7 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+
+networks:
+  my_blog_network:
+    external: true

@@ -26,6 +26,14 @@
               </td>
             </tr>
           {% endfor %}
+          {% if content.url %}
+            <tr>
+              <td></td>
+              <td class="list-group-url">
+                <a href="{{ content.url }}">Go to my library</a>
+              </td>
+            </tr>
+          {% endif %}
         </tbody>
       </table>
     </div>
