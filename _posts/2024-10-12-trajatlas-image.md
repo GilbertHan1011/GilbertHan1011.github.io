@@ -6,11 +6,9 @@ description: A fascinating image created by Jialin Wu
 tags: videos writing
 categories: writing
 thumbnail: assets/img/publication_preview/TrajAtlas.png
+giscus_comments: true
 ---
-
 I have a talented sister who is good at drawing. So, when PLOS Genetics asked me to provide a striking image, I turned to her for help. The result was... well, not very scientific, but extremely cute!
-
-
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,7 +18,6 @@ I have a talented sister who is good at drawing. So, when PLOS Genetics asked me
 <div class="caption">
     Striking image of TrajAtlas
 </div>
-
 
 This picture was inspired by the Waddington landscape and lineage tree, four distinct progenitor sources—chondrocytes, mesenchymal cells, fibroblasts, and LepR+ bone marrow stromal cells—descend the lineage tree, ultimately converging into osteoblasts.
 

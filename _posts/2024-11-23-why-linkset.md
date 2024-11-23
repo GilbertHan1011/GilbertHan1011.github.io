@@ -6,6 +6,7 @@ description: Introduction to the motivation of LinkSet
 tags: bioinfo
 categories: bioinfo
 thumbnail: assets/img/linkSet_log.png
+giscus_comments: true
 ---
 ## Introduction
 

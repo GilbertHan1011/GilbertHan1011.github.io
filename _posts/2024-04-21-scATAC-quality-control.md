@@ -6,6 +6,7 @@ description: I described a new way for scATAC-seq quality control
 tags: bioinfo
 categories: bioinfo
 thumbnail: assets/img/2024-04-21-scATAC-quality-control/1713701483232.png
+giscus_comments: true
 ---
 One main challenge in scATAC-seq analysis is to distinguish the good cells (high quality cells), the bad cells(low quality cells), and the ugly cells (doublet  cells).
 
